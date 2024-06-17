@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm P K Kavya</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=1500w">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ1Ymd5MXhyYm5lamI3OHduMm0wbW80OXhtejI5Zms1ZzV6YzByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya-918&label=Profile%20views&color=0e75b6&style=flat" alt="kavya-918" /> </p>
 
